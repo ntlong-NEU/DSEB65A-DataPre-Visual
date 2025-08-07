@@ -1,6 +1,6 @@
-# DSEB65A-DataPre-Visual
+# DSEB65A-Data Preparation and Visualization
 
-## Three main stages in this course.
+## **Three main stages in this course:**
 
 ### Part 1: Data Manipulation with Pandas - Mastering the Tools.
 
@@ -8,5 +8,5 @@
 
 ### Part 3: Visualization & Data Storytelling - Turning Analysis into Impact.
 
-### Timeline:
+### **Timeline:**
 ![alt text](image.png)
